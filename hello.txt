@@ -1,3 +1,4 @@
 Hello, Git. 
 This is my new repository.
+Learning git basics.
 
